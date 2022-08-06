@@ -4,6 +4,7 @@ Note : This is my first time using php & laravel
 
 ## Install
 - Clone your project
+- Create the database by running the create_database.sql file
 - cd laravel-app
 - Run __$ composer install__ on your cmd or terminal
 - Copy .env.example file to .env on the root folder. You can type copy .env.example .env if using command prompt Windows or cp .env.example .env if using terminal, Ubuntu
